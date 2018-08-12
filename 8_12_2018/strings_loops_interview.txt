@@ -1,0 +1,65 @@
+3. Write a Python program to get a string made of the first 2 and the last 2 chars from a given a string. If the string length is less than 2, return instead the empty string. 
+Sample String : 'w3resource'
+Expected Result : 'w3ce'
+Sample String : 'w3'
+Expected Result : 'w3w3'
+Sample String : ' w'
+Expected Result : Empty String
+
+str = "I am an indian , this an apple ,how do u know that, I am an indo , I know that , how old are you"
+Please write a program and find out a&gt;which elements are starting with I
+Ex: l=[‘I am an indian’,’I am an indo’,’I know that’]
+Like wise find which are end with ‘ that’ ,l2=[‘ how do u know that’,’I know that’]
+
+Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', except the first char itself
+Sample String : 'restart'
+Expected Result : 'resta$t'
+
+Write a Python program to add 'ing' at the end of a given string (length should be at least 3). If the given string is already ends with 'ing' then add 'ly' instead. If the string length of the given string is less than 3, leave it unchanged.
+Sample String : 'abc'
+Expected Result : 'abcing' 
+Sample String : 'string'
+Expected Result : 'stringly'
+
+Write a Python program to find the first appearance of the substring 'not' and 'poor' from a given string, if 'bad' follows the 'poor', replace the whole 'not'...'poor' substring with 'good'. Return the resulting string. 
+Sample String : 'The lyrics is not that poor!'
+Expected Result : 'The lyrics is good!
+
+#LOOPS
+Write a Python program to construct the following pattern, using a nested for loop.
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
+
+
+6. Write a Python program that prints all the numbers from 0 to 6 except 3 and 6.
+Note : Use 'continue' statement. 
+Expected Output : 0 1 2 4 5 
+
+Write a Python program to print alphabet pattern 'A'.
+Expected Output:
+
+  ***                                                                   
+ *   *                                                                  
+ *   *                                                                  
+ *****                                                                  
+ *   *                                                                  
+ *   *                                                                  
+ *   *
+
+#IF conditions
+in examination one student marks are like that
+Telugu=54, English= 12, maths=25,science=65 , fail marks are 30
+a&gt; Please find by subject wise he is pass or not
+b&gt; As usual finally please find the student is pass or not(by using and operator)
+ 
+ 
+ 
+
