@@ -1,5 +1,5 @@
 str1 = "I am an indian , this an apple ,how do u know that, I am an indo , I know that, how old are that"
-
+#I had changed the code...
 # condition1 start with 'I'
 # condition2 ends with  'that'
 
