@@ -1,0 +1,7 @@
+We declared this variable f to open a file named textfile.txt. 
+Open takes 2 arguments, the file that we want to open and a 
+string that represents the kinds of permission or operation we want to do on the file
+Here we used "w" letter in our argument,
+which indicates write this and the plus sign that means it will create a file if it does not exist in library
+The available option beside "w" are "r"
+for read and "a" for append his and plus sign means if it is not there then create it
