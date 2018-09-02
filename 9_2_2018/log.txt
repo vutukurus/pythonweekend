@@ -1,0 +1,13 @@
+C:\Users\siv\Desktop\version
+linux windows mac...
+
+linux with 3.5
+
+windw with 2.7:
+
+3.5 linux...
+print "this is pythoin"
+
+print (this is python)
+
+
