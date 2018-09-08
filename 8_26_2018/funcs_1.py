@@ -1,5 +1,6 @@
 #Functions..
 #duplicate/redundant code is elimiated
+#minatnce can be less..
 #plug and play functionality.
 
 def addition(a,b):

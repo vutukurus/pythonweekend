@@ -17,10 +17,14 @@ print a.communicate()[0]
 #100 ips//
 ips = ["10.1.2", "10.3.4","10.9.4"]
 for i in ips:
+	st_time = time.time()
 	cmd = "ping"+" "+i
 	print "executing {}".format(cmd)
 	a = subprocess.Popen(cmd, shell=True,stdout=subprocess.PIPE)
 	print a.communicate()[0]
+	e_time = time.time()
+	print e_time-st_time
+	
 
 
 
