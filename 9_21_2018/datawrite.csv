@@ -1,0 +1,16 @@
+title,score,length,state,club
+python,10,1,alasca,11
+perl,8,6,sd,14
+shell,78,4,india,82
+perl,10,6,germany,16
+shell,90,90,france,180
+python,10,1,alasca,11
+perl,8,6,sd,14
+shell,78,90,india,168
+perl,10,6,germany,16
+shell,90,90,france,180
+python,10,1,alasca,11
+perl,8,6,sd,14
+shell,78,90,india,168
+perl,10,6,germany,16
+shell,100,90,france,190
